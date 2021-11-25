@@ -67,4 +67,5 @@ int main()
         cout << endl << "do u wanna continue? 1 - yes; 0 - no:   - ";
         cin >> t;
     }
+    //test
 }
